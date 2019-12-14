@@ -1,0 +1,10 @@
+<div *ngIf="kek==1" class="Register">
+  <h3>Регистрация на сайте</h3>
+  <label>Введите login</label><br />
+  <input class="form-control" type="text" id="email" #Email (keyup)="GetEmail(Email.value)"/> <br /><br />
+  <label>Введите пароль</label><br />
+  <input class="form-control" type="password" id="password" #Password (keyup)="GetPassword(Password.value)"/><br /><br />
+  <button (click)="Register()">Регистрация</button>
+  <p><button (click)="Sign_In()">Уже зарегистрированы</button></p>
+</div>
+<div *ngIf="kek==0"><authorization>Loading Authorizationn from Registratio</authorization></div>

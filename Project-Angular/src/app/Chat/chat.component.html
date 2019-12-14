@@ -1,0 +1,11 @@
+<div *ngIf="kek==1">
+    <h2>Your Chat with {{userName}}</h2>
+    <div style="margin-left: 49.7%;">
+        <div id="Chat" *ngFor="let message of messages" style="text-align: left;">
+            {{message}}
+        </div>
+    </div>
+    <input type="message" id="message" #Message (keyup)="GetMessage(Message.value)" style="width: 250px;"/>
+    <button (click)="Send_Message()">Send Message</button>
+</div>
+<div *ngIf="kek==2"><chat [userName]="userName"></chat></div>

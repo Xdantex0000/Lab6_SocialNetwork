@@ -1,0 +1,10 @@
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.deps.json
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.dll
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\obj\Debug\netcoreapp3.0\SocialNetwork_DAL.csprojAssemblyReference.cache
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\obj\Debug\netcoreapp3.0\SocialNetwork_DAL.AssemblyInfoInputs.cache
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\obj\Debug\netcoreapp3.0\SocialNetwork_DAL.AssemblyInfo.cs
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.pdb
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\obj\Debug\netcoreapp3.0\SocialNetwork_DAL.dll
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\obj\Debug\netcoreapp3.0\SocialNetwork_DAL.pdb
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.runtimeconfig.json
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_DAL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.runtimeconfig.dev.json

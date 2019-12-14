@@ -1,0 +1,11 @@
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.dll
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.csprojAssemblyReference.cache
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.AssemblyInfoInputs.cache
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.AssemblyInfo.cs
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\bin\Debug\netcoreapp3.0\SocialNetwork_BLL.deps.json
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\bin\Debug\netcoreapp3.0\SocialNetwork_BLL.dll
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\bin\Debug\netcoreapp3.0\SocialNetwork_BLL.pdb
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\bin\Debug\netcoreapp3.0\SocialNetwork_DAL.pdb
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.csproj.CopyComplete
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.dll
+C:\Users\Klantis\source\repos\SocialNetwork\SocialNetwork_BLL\obj\Debug\netcoreapp3.0\SocialNetwork_BLL.pdb

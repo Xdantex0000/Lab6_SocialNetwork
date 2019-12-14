@@ -1,0 +1,9 @@
+<div *ngIf="kek==1" style="margin-left: 20%;">
+<h2>Your Friends List</h2>
+<div id="Friends" *ngFor="let friend of friends" style="margin-left: 40%;">
+    <p style="text-align: left;">{{friend}} <button (click)="Send_Message(friend)">Send message</button></p>
+</div>
+</div>
+<div *ngIf="kek==2">
+    <chat [userName]="username">Loading Chat</chat>
+</div>

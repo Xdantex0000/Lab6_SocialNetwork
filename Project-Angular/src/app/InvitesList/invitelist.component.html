@@ -1,0 +1,9 @@
+<div *ngIf="kek==1">
+<h2>Your Invite List</h2>
+<div id="Invites" *ngFor="let invite of invites">
+        <p>{{invite}} <button (click)="Invite(invite)">Add to Friends</button></p>
+</div>
+</div>
+<div *ngIf="kek==2">
+    <friendlist></friendlist>
+</div>

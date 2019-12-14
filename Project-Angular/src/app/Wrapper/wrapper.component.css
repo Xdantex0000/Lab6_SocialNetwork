@@ -1,0 +1,30 @@
+#Wrapper{
+    background-color: cadetblue;
+    height: 750px;
+    width: 1500px;
+    position: absolute;
+    left: 10%;
+}
+button{
+    width: 200px;
+    font-size: 20px;
+    height: 100px;
+    float: left;
+}
+.buttons{
+    width:220px;
+    margin-left: 20%;
+}
+.actually_buttons{
+    top:500px;
+}
+.Log_out{
+    width: auto;
+    height: auto;
+    font-size: small;
+}
+.left_block{
+    height: 100%;
+    float: left;
+    background-color: #3e7475;
+}

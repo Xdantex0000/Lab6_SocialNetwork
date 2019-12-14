@@ -1,0 +1,27 @@
+<div id="Wrapper" *ngIf="kek==1">
+    <div class="left_block">
+        <p style="float: left; font-size: 20px;">You are logged in as: {{username}}</p>
+        <button class="Log_out" (click)="Log_out()" style="margin: 17px; font-size: 20px;">Log out</button>
+        <div class="buttons">
+            <div class="actually_buttons">
+                <button (click)="state = viewState.FRIENDS_LIST">Friends List</button>
+                <button (click)="state = viewState.USER_LIST">User List</button>
+                <button (click)="state = viewState.INVITE_LIST">Invite List</button>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+            <div [ngSwitch]="state">
+                <div *ngSwitchCase="viewState.FRIENDS_LIST">
+                    <friendlist>Loading FRIENDS_LIST</friendlist>
+                </div>
+                <div *ngSwitchCase="viewState.USER_LIST">
+                        <userslist>Loading USER_LIST</userslist>       
+                    </div>
+                <div *ngSwitchCase="viewState.INVITE_LIST">
+                    <invitelist>Loading INVITE_LIST</invitelist>
+                </div>
+            </div>
+        </div>
+</div>
+<authorization *ngIf="kek==2"></authorization>
